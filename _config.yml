@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: HP of ZC # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: CHEN
-middle_name: 
+#middle_name: 
 last_name: Zuo
 email: zuo.c.aa@m.titech.ac.jp
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -48,7 +48,7 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -76,7 +76,7 @@ github_username: realzuoc # your GitHub user name
 #medium_username: # your Medium username
 #quora_username: # your Quora username
 #publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+#research_gate_profile: # your profile on ResearchGate
 #blogger_url: # your blogger URL
 #work_url: # work page URL
 #keybase_username: # your keybase user name
