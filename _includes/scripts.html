@@ -2,3 +2,17 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var links = document.querySelectorAll('a[href]');
+
+  links.forEach(function (a) {
+    // 如果 href 含 'http' 且域名与当前不同 → 视作外链
+    if (a.hostname && a.hostname !== window.location.hostname) {
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener');
+    }
+  });
+});
+</script>
