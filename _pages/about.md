@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Chen Zuo (M.Eng.), a doctoral candidate in the [Optical Wireless Power Transmission (OWPT) Laboratory](http://vcsel-www.pi.titech.ac.jp/index-j.html) at the [Institute of Science Tokyo](https://www.isct.ac.jp/en), advised by [Assoc. Prof. Tomoyuki Miyamoto](https://www.first.iir.titech.ac.jp/member/core3/#miyamoto).
+I am Chen Zuo (左 晨), a doctoral candidate in the [Optical Wireless Power Transmission (OWPT) Laboratory](http://vcsel-www.pi.titech.ac.jp/index-j.html) at the [Institute of Science Tokyo](https://www.isct.ac.jp/en), advised by [Assoc. Prof. Tomoyuki Miyamoto](https://www.first.iir.titech.ac.jp/member/core3/#miyamoto).
 My work focuses on camera-based safety control for mid- to long-range OWPT, VCSEL beam-shaping, and automatic laser-emission regulation, uniting optical design, semiconductor physics, and computer-vision-driven control.
 
 Since 2022 I have also been a research assistant at FIRST, Institute of Innovative Research (IIR), where me and lab members did prototype IoT-enabled OWPT system and the closed-loop control&tracking towards power receiving target.
