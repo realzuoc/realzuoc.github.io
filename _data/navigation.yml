@@ -19,12 +19,12 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  #  - title: "Invited Talks"
+  #    url: "/#-invited-talks"
 
   - title: "Internships"
     url: "/#-internships"
 
   - title: "resume"
-    url: "/#-resume"
+    url: "/assets/cv/cv-zuochen-202504.pdf"
     external: true

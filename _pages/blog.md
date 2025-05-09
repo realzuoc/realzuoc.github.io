@@ -1,7 +1,7 @@
 ---
-layout: blog           # keeps header/footer/nav styling
+layout: blog # keeps header/footer/nav styling
 title: Posts
-permalink: /blog/         # final URL will be /blog/
+permalink: /blog/ # final URL will be /blog/
 ---
 
 <h1>All posts</h1>

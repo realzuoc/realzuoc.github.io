@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,16 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am Chen Zuo (M.Eng.), a doctoral candidate in the [Optical Wireless Power Transmission (OWPT) Laboratory](http://vcsel-www.pi.titech.ac.jp/index-j.html) at the [Institute of Science Tokyo](https://www.isct.ac.jp/en), advised by [Assoc. Prof. Tomoyuki Miyamoto](https://www.first.iir.titech.ac.jp/member/core3/#miyamoto).
+My work focuses on camera-based safety control for mid- to long-range OWPT, VCSEL beam-shaping, and automatic laser-emission regulation, uniting optical design, semiconductor physics, and computer-vision-driven control.
 
-My research interest includes neural machine translation and computer vision. I have published more than 1 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=F23J6wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+Since 2022 I have also been a research assistant at FIRST, Institute of Innovative Research (IIR), where me and lab members did prototype IoT-enabled OWPT system and the closed-loop control&tracking towards power receiving target.
 
+**Research Interest** Currently, we are focusing on Camera based safety system for OWPT, a method will lead to new standard for Laser Safety, Automatic Emission Control(AEC).
+This includes Beam Tracking, Shaping, Beam Control, Object Recognition and more. More specific topics:
+
+- Performance and evaluation of OWPT system in mid to long distance OWPT.
+- Laser power converter performance assessment and optics design for various applications.
+- OWPT safety related: using sensors or cameras to fulfill AEC for safety of laser devices.
+
+Outside the lab, I enjoy hiking and photography—occasional snapshots and trip logs appear on my blog.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- _[2025.04]_: &nbsp;🎉🎉 Awarded with **Student Paper Award** on The 7th Optical Wireless and Fiber Power Transmission Conference!
+
+# 📸 Photograph Blog
 
 {% assign recent = site.posts | slice: 0, 3 %}
+
 <section id="recent-posts">
   <h2>Recent posts</h2>
   <ul>
@@ -38,37 +50,53 @@ My research interest includes neural machine translation and computer vision. I 
     {% endfor %}
   </ul>
 
-  <a class="btn btn-sm" href="{{ '/blog/' | relative_url }}">See all&nbsp;posts →</a>
+<a class="btn btn-sm" href="{{ '/blog/' | relative_url }}">See all&nbsp;posts →</a>
+
 </section>
 
+# 📝 Publications
 
-# 📝 Publications 
+## Journal Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [Camera-Based Safety System for Optical Wireless Power Transmission Using Dynamic Safety-Distance](https://www.mdpi.com/2304-6732/11/6/500)  
+  Chen Zuo, Tomoyuki Miyamoto
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+## Conferences
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Advanced OWPT Safety System: Improved Metrics and Optimization for Multiple Intrusion Objects](https://pub.confit.atlas.jp/ja/event/opic2025/presentation/OWPT2-02)  
+  Chen Zuo, Tomoyuki Miyamoto  
+  OWPT2025
+- 3D-Camera Based Optical Wireless Power Transmission Safety System for Light Beam Scanning Applications  
+  Chen Zuo, Tomoyuki Miyamoto  
+  MOC2024
+- [Integrative Dynamic Safety System for OWPT: Real-Time Velocity and Distance-Based Safety Control](https://confit.atlas.jp/guide/event/opic2024/subject/OWPT6-02/detail)  
+  Chen Zuo, Tomoyuki Miyamoto  
+  OWPT2024
+- [Improvement of Optical Wireless Power Transmission Safety System Using Depth Camera by New Safety Distance](https://confit.atlas.jp/guide/event/opic2023/subject/OWPT11-05/crosssearch)  
+  Chen Zuo, Tomoyuki Miyamoto  
+  OWPT2023
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- _2025_ Student Paper Award — OWPT 2025
+- _2023_ [Student Paper Award — OWPT 2023](https://www.first.iir.titech.ac.jp/detail_1455/)
+- _2023_ [Outstanding Master Student Award — Institute of Science Tokyo 2023](https://educ.titech.ac.jp/ee/eng/news/2024_04/065884.html)
+- _2021_ Excellent Undergraduate Thesis — Suzhou University of Technology 2021
+- University Scholarship (Second) — 2021
+- University Scholarship (Second) — 2020
+- University Scholarship (First) — 2019
+- Excellent AIESEC Global Volunteer — 2018
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- **Oct 2023 – Present** | Ph.D.(Eng.), Institute of Science Tokyo | _Advanced OWPT Safety System toward Error-Free Safety_ |
+- **Nov 2021 – Jul 2023** | M.Eng., Institute of Science Tokyo | _Fundamental Investigation of Camera-Based Safety System of OWPT_ |
+- **Sep 2017 – Jun 2021** | B.Eng., Suzhou University of Technology | _Mode Characteristics Analysis of the Ridged Waveguide_ |<!-- :contentReference[oaicite:6]{index=6}:contentReference[oaicite:7]{index=7} -->
+
+[//]: # "# 💬 Invited Talks"
+[//]: # "- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+[//]: # "- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  | [[video]](https://github.com/)"
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- _2022.05 - Present_, Research Assistant, FIRST, IIR, Institute of Science Tokyo, Japan.
