@@ -59,22 +59,23 @@ Outside the lab, I enjoy hiking and photography—occasional snapshots and trip 
 ## Journal Papers
 
 - [Camera-Based Safety System for Optical Wireless Power Transmission Using Dynamic Safety-Distance](https://www.mdpi.com/2304-6732/11/6/500)  
-  Chen Zuo, Tomoyuki Miyamoto
+  Chen Zuo, Tomoyuki Miyamoto  
+  *MDPI Photonics*
 
 ## Conferences
 
 - [Advanced OWPT Safety System: Improved Metrics and Optimization for Multiple Intrusion Objects](https://pub.confit.atlas.jp/ja/event/opic2025/presentation/OWPT2-02)  
   Chen Zuo, Tomoyuki Miyamoto  
-  OWPT2025
+  *OWPT2025*
 - 3D-Camera Based Optical Wireless Power Transmission Safety System for Light Beam Scanning Applications  
   Chen Zuo, Tomoyuki Miyamoto  
-  MOC2024
+  *MOC2024*
 - [Integrative Dynamic Safety System for OWPT: Real-Time Velocity and Distance-Based Safety Control](https://confit.atlas.jp/guide/event/opic2024/subject/OWPT6-02/detail)  
   Chen Zuo, Tomoyuki Miyamoto  
-  OWPT2024
+  *OWPT2024*
 - [Improvement of Optical Wireless Power Transmission Safety System Using Depth Camera by New Safety Distance](https://confit.atlas.jp/guide/event/opic2023/subject/OWPT11-05/crosssearch)  
   Chen Zuo, Tomoyuki Miyamoto  
-  OWPT2023
+  *OWPT2023*
 
 # 🎖 Honors and Awards
 
