@@ -40,6 +40,45 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Syuku&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Rosario');
+
+/* --- Global font stack --- */
+body {
+  font-family:
+    "Trebuchet MS",        /* Latin default */
+    "Yuji Syuku",      /* Japanese kana, kanji */
+    "Noto Serif SC",       /* Simplified Chinese */
+    Helvetica,
+    sans-serif;
+}
+
+/* 1) Default fallback if no front-matter override */
+article.post {
+  font-family:
+    var(--post-font, "Trebuchet MS"),
+    "Yuji Syuku",           /* Japanese */
+    "Noto Serif SC",        /* Chinese */
+    Helvetica,
+    sans-serif;
+}
+
+article.post h1,
+article.post h2,
+article.post h3,
+article.post h4,
+article.post h5,
+article.post h6 {
+  font-family:
+    var(--post-font, "Trebuchet MS"),
+    "Yuji Syuku",
+    "Noto Serif SC",
+    Helvetica,
+    sans-serif;
+}
+
+
 .paper-box {
   display: flex;
   justify-content: left;
@@ -103,4 +142,25 @@ h1:before,
   color: white;
   background-color: #00369f;
   font-size: 0.8em;
+}
+
+/* 1. 设定一个固定的“展示盒”尺寸：*/
+.post-img,
+.page__content img {
+  display: block;
+  margin: 1.5em auto;
+
+  /* 1. 最大宽度不超过容器宽度（或指定数值）；或者 max-width: 600px; */
+  max-width: 100%;
+
+  /* 2. 自动按比例计算高度 */
+  width: auto;
+  height: auto;
+
+  /* 3. 如果高度超出视窗高度 80vh，就等比缩小 */
+  max-height: 80vh;
+
+  /* 可选边框美化 */
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }

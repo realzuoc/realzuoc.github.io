@@ -33,6 +33,11 @@ h6 {
   font-weight: bold;
 }
 
+/* Font stack for post default */
+:root {
+  --post-font: 'Rosario';
+}
+
 h1 {
   // margin: 4em 0 0.5em;
   margin-top: 1em;
