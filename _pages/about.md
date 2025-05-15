@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Chen Zuo (左 晨), a doctoral candidate in the [Optical Wireless Power Transmission (OWPT) Laboratory](http://vcsel-www.pi.titech.ac.jp/index-j.html) at the [Institute of Science Tokyo](https://www.isct.ac.jp/en), advised by [Prof. Tomoyuki Miyamoto](https://www.first.iir.titech.ac.jp/member/core3/#miyamoto).
-Our research for OWPT is mainly construction of close-range indoor and long-range outdoor OWPT, this system integration work contains VCSEL beam-shaping, and automatic laser-emission regulation, uniting optical design, semiconductor physics, and computer-vision-driven control.
+I am Chen Zuo (左 晨), currently a doctoral course student in the [Optical Wireless Power Transmission (OWPT) Laboratory](http://vcsel-www.pi.titech.ac.jp/index-j.html) at the [Institute of Science Tokyo](https://www.isct.ac.jp/en)(previously Tokyo Institute of Technology), advised by [Prof. Tomoyuki Miyamoto](https://www.first.iir.titech.ac.jp/member/core3/#miyamoto).
+I completed my undergraduate studies at [Suzhou University of Technology](https://www.szut.edu.cn/)(previously Changshu Institute of Technology) in 2021, and received my B.Eng. degree in Optoelectronic Information Science and Technology. 
+I then started the Integrated Doctor Course at Electronic and Electrical Department in Institute of Science Tokyo, receied Master degress in 2023.
+Since 2022 I have also been a research assistant at FIRST, Institute of Innovative Research (IIR) in Science Tokyo, where I together with lab members researching prototype IoT-enabled OWPT system and the closed-loop control&tracking towards OWPT power receiving target.
+
+Our research for OWPT is mainly construction of close-range indoor and long-range outdoor OWPT, and also system integration. It contains various fields such as VCSEL beam-shaping, automatic laser-emission regulation, uniting optical design, semiconductor physics, and computer-vision-driven control.
 Take a glance at the [OWPT technology here!](https://youtu.be/pdI2E4NjI8s?si=lOi6FKB9_znatIfj)
 
-Since 2022 I have also been a research assistant at FIRST, Institute of Innovative Research (IIR), where me and lab members did prototype IoT-enabled OWPT system and the closed-loop control&tracking towards power receiving target.
-
-**Research Interest** Currently, we are focusing on Camera based safety system for OWPT, a method will lead to new standard for Laser Safety, *Automatic Emission Control(AEC)*.
+**Research Interest** Currently, I am focusing on Camera based safety system for OWPT, a method will lead to new standard for Laser Safety, *Automatic Emission Control(AEC)*.
 This includes [Beam Tracking](http://dx.doi.org/10.1109/ACCESS.2025.3542769), [Shaping](https://doi.org/10.3390/en18092310), Beam Control, Object Recognition and more. More specific topics:
 
 - Performance and evaluation of OWPT system in mid to long distance OWPT.
